@@ -33,16 +33,27 @@
                 <h4 class="text-lg font-semibold mb-4">Media Sosial</h4>
                 <div class="flex space-x-4 text-xl">
                     <a href="mailto:galeriedukasibeisman1pelaihari@gmail.com"
-                        class="text-gray-400 hover:text-white transition"><i class="fa-solid fa-envelope"></i>
-                        <a href="https://sman1plh.sch.id/" class="text-gray-400 hover:text-white transition"><i
-                                class="fa-solid fa-school"></i>
+                        class="text-gray-400 hover:text-white transition">
+                        <i class="fa-solid fa-envelope"></i>
+                    </a>
 
-                            <a href="https://www.instagram.com/sman1pelaihari/"
-                                class="text-gray-400 hover:text-white transition"><i class="fab fa-instagram"></i></a>
-                            <a href=https://www.youtube.com/channel/UCRZN5qHgLNbj8w4X_ej4Qpg"
-                                class="text-gray-400 hover:text-white transition"><i class="fab fa-youtube"></i></a>
+                    <a href="https://sman1plh.sch.id/" target="_blank" rel="noopener noreferrer"
+                        class="text-gray-400 hover:text-white transition">
+                        <i class="fa-solid fa-school"></i>
+                    </a>
+
+                    <a href="https://www.instagram.com/sman1pelaihari/" target="_blank" rel="noopener noreferrer"
+                        class="text-gray-400 hover:text-white transition">
+                        <i class="fab fa-instagram"></i>
+                    </a>
+
+                    <a href="https://www.youtube.com/@sman1pelaihari531" target="_blank" rel="noopener noreferrer"
+                        class="text-gray-400 hover:text-white transition">
+                        <i class="fab fa-youtube"></i>
+                    </a>
                 </div>
             </div>
+
         </div>
 
         <div class="border-t border-gray-700 mt-10 pt-6 text-center text-gray-400 text-sm">

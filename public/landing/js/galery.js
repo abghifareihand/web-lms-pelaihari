@@ -2,7 +2,7 @@ document.addEventListener("DOMContentLoaded", function () {
     const galleryItems = document.querySelectorAll(".gallery-item");
     const modal = document.getElementById("modal");
     const modalTitle = document.getElementById("modal-title");
-    const modalDescription = document.getElementById("modal-fulldes");
+    const modalDescription = document.getElementById("modal-description");
     const modalImage = document.getElementById("modal-image");
     const modalId = document.getElementById("modal-id");
     const closeModal = document.getElementById("close-modal");
@@ -11,7 +11,7 @@ document.addEventListener("DOMContentLoaded", function () {
         item.addEventListener("click", function () {
             const id = this.dataset.id;
             const title = this.dataset.title;
-            const description = this.dataset.fulldes;
+            const description = this.dataset.description;
             const image = this.dataset.image;
 
             // Isi modal
