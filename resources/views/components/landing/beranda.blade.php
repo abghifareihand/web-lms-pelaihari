@@ -10,7 +10,7 @@
 
         <!-- Text Section -->
         <div class="flex-1 text-center lg:text-left">
-            <h1 class="text-2xl sm:text-5xl lg:text-[42px] font-extrabold leading-tight text-white">
+            <h1 class="text-2xl sm:text-5xl lg:text-[34px] font-extrabold leading-tight text-white">
                 PENERIMA PENDANAAN
             </h1>
 
