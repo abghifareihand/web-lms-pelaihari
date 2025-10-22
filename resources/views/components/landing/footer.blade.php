@@ -54,10 +54,18 @@
                 </div>
             </div>
 
+            <div>
+                <h4 class="text-lg font-semibold mb-4">Pengujung</h4>
+                <p class="text-gray-400">
+                    Hari ini : {{ $todayVisitors }} <br>
+                    Total : {{ $totalVisitors }}
+                </p>
+            </div>
         </div>
 
+        {{-- Copyright --}}
         <div class="border-t border-gray-700 mt-10 pt-6 text-center text-gray-400 text-sm">
-            © 2024 SMA Negeri 1 Pelaihari. Hak Cipta Dilindungi.
+            © {{ now()->year }} SMA Negeri 1 Pelaihari. Hak Cipta Dilindungi.
         </div>
     </div>
 </footer>
