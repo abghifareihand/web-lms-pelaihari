@@ -55,7 +55,7 @@
             </div>
 
             <div>
-                <h4 class="text-lg font-semibold mb-4">Pengujung</h4>
+                <h4 class="text-lg font-semibold mb-4">Pengunjung</h4>
                 <p class="text-gray-400">
                     Hari ini : {{ $todayVisitors }} <br>
                     Total : {{ $totalVisitors }}
